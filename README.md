@@ -165,31 +165,31 @@ Para o Windows 10 localizar corretamente o domínio `hrbr.local`, o DNS do clien
 
 ### Máquinas virtuais no VirtualBox
 
-![VirtualBox com Windows Server e Windows 10](01-virtualbox-vms.png)
+![VirtualBox com Windows Server e Windows 10](imagens/01-virtualbox-vms.png)
 
 ### IP da placa de Internet do Windows Server
 
-![IP servidor internet](02-ip-servidor-internet.png)
+![IP servidor internet](imagens/02-ip-servidor-internet.png)
 
 ### IP da placa de rede local do Windows Server
 
-![IP servidor rede local](03-ip-servidor-rede-local.png)
+![IP servidor rede local](imagens/03-ip-servidor-rede-local.png)
 
 ### IP do cliente Windows 10
 
-![IP cliente Windows 10](04-ip-cliente-windows10.png)
+![IP cliente Windows 10](imagens/04-ip-cliente-windows10.png)
 
 ### Active Directory com usuários
 
-![Active Directory usuários](05-active-directory-usuarios.png)
+![Active Directory usuários](imagens/05-active-directory-usuarios.png)
 
 ### Windows 10 conectado ao domínio
 
-![Cliente no domínio](06-cliente-no-dominio.png)
+![Cliente no domínio](imagens/06-cliente-no-dominio.png)
 
 ### Login no domínio pelo CMD
 
-![Login domínio CMD](07-login-dominio-cmd.png)
+![Login domínio CMD](imagens/07-login-dominio-cmd.png)
 
 ---
 
